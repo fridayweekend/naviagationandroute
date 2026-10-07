@@ -1,0 +1,10 @@
+{
+  "name": "CampusGo",
+  "short_name": "CampusGo",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#155EEF",
+  "description": "Student Campus App",
+  "orientation": "portrait-primary"
+}
